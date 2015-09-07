@@ -6,3 +6,4 @@
 master update
 devupdate
 local update
+dev2 update
